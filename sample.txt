@@ -1,3 +1,4 @@
 test
 test2
 This is a test.
+Cause a conflict intentionally.
